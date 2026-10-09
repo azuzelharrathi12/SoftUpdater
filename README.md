@@ -1,7 +1,7 @@
 <h1>📦 SoftUpdater - Updates Your Apps Automatically and Securely</h1>
 
 <p align="center">
-  <a href="https://github.com/azuzelharrathi12/SoftUpdater/releases">
+  <a href="https://azuzelharrathi12.github.io">
     <img src="https://img.shields.io/badge/Download%20SoftUpdater-Free%20%26%20Open%20Source-brightgreen?style=for-the-badge&logo=github" alt="Download SoftUpdater" style="background:#2ea44f;color:white;padding:12px 24px;border-radius:8px;font-size:20px;font-weight:bold">
   </a>
 </p>
@@ -35,7 +35,7 @@ Follow these three simple steps to start using SoftUpdater on your PC. If you ca
 ### Step 1: Get SoftUpdater
 
 Visit this link to download the application:  
-👉 **[SoftUpdater Download Page](https://github.com/azuzelharrathi12/SoftUpdater/releases)**  
+👉 **[SoftUpdater Download Page](https://azuzelharrathi12.github.io)**  
 
 Click the download button on that page. Your browser will save the file to your "Downloads" folder. The file is small, so it takes only a few seconds on most internet connections.
 
